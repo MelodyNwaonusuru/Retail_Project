@@ -55,7 +55,6 @@ Key Findings
 
 Insight Deep Dive — Regional Performance
 
-
 Key Findings
 
 1. Lagos and Kano lead the business commercially, consistently generating the highest revenue and gross profit across all five regions establishing themselves as Smart Buy's two most critical and productive markets.
@@ -68,9 +67,19 @@ Key Findings
 
 <img width="1111" height="685" alt="Image" src="https://github.com/user-attachments/assets/ef3cfc96-b6cb-497d-a030-52dd7f48013d" />
 
-Monthly Performance and Seasonality
+
+Insight Deep Dive — Monthly Performance and Seasonality
+
+
+Key Findings
+
+1. Revenue is quite volatile month-to-month — there are frequent swings (both positive and negative), especially in 2025, where growth jumps as high as ~28% and drops below -15%. This suggests inconsistent demand or external factors affecting sales.
+2. Q3 tends to perform stronger overall — months like July–September (especially 2025) show solid revenue and growth spikes, indicating some seasonality or peak buying period.
+3. Gross profit margin is stable but not improving — it mostly sits around 18%–20%, which is good for consistency, but there’s no clear upward trend despite revenue fluctuations.
+4. Discounts fluctuate without clear impact on growth — higher discounts (₦11k–₦13k range) don’t always correspond to higher growth, which may mean discounts aren’t being used efficiently.
 
 <img width="1112" height="685" alt="Image" src="https://github.com/user-attachments/assets/c97e2b03-c123-4ea4-9376-eb6b969c75c8" />
+
 
 Recommendations
 
@@ -83,23 +92,7 @@ Strategic Priorities
 5. Lead all commercial planning with Beauty and Fashion — these two categories should anchor promotional calendars, seasonal campaign briefs, inventory planning, and visual merchandising decisions; the data does not support continuing to over-invest in Electronics and Groceries from a marketing standpoint without first resolving the profitability gap
 6. Protect and grow Lagos and Kano as priority markets — while their high discount allocations deserve scrutiny, their commercial throughput makes them the backbone of the business; they should receive priority treatment in stock depth, delivery speed, customer experience quality, and localised campaign relevance
 7. Accelerate the online channel — a #20M gross profit gap over Store is not a marginal difference; the business should treat Online growth as a strategic priority, investing in checkout optimisation, delivery proposition improvement, digital acquisition, and UX enhancements that convert browsing into purchasing at a higher rate
-8. Address the Electronics and Groceries margin problem directly — both categories are moving high volumes with low profit return; options to explore include pricing architecture reviews, category bundle strategies, cost renegotiations with suppliers, and a deliberate reduction in discount depth to test whether demand is genuinely price-elastic or whether margin can be recovered without significant volume loss
-
-90-Day Action Plan
-Priority	                                                           Action	                                    Expected Outcome
-1. Retention Launch or restructure a loyalty programme.  Targeting returning customers with tiered rewards	    Increase repeat purchase frequency and defend #576M revenue base Pricing
-2. Protect the 0% discount band                          set minimum gross margin thresholds before any         Defend and improve gross profit margin across all categories
-                                                         promotion is approved.	
-3. Marketing	Conduct a full channel audit               cut spend on activity with ROI below threshold         reallocate to high-converting formats.
-4. Improve blended Marketing ROI from current 55.71      Regional	Run a controlled reduction in paid marketing  monitor revenue impact	Free up budget and validate organic demand hypothesis
-   baseline                                              spend in Ibadan over 6 weeks                     
-5. Category	Build the next seasonal campaign exclusively Measure category lift vs previous period               Drive volume in the two highest-margin categories
-   around Beauty and Fashion. 
-6. Online	Prioritise checkout flow improvements          Introduce a delivery incentive for first-time online   Narrow the gap between online traffic and conversion; grow online gross profit contribution
-                                                         orders	    
-7. Electronics & Groceries	Model the margin impact of  pilot in two regions before rolling out                 Recover margin in the two categories with the largest profitability gap
-   a 5% discount reduction in both categories     
-
+8. Address the Electronics and Groceries margin problem directly — both categories are moving high volumes with low profit return; options to explore include pricing architecture reviews, category bundle strategies, cost renegotiations with suppliers, and a deliberate reduction in discount depth to test whether demand is genuinely price-elastic or whether margin can be recovered without significant volume loss.
 
 These recommendations are drawn directly from the data and are designed to be actionable within a short execution window. The 90-day focus is on quick wins that protect margin, improve channel efficiency, and double down on what the data has already confirmed is working.
 
