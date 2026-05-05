@@ -1,12 +1,15 @@
 Smart Buy Retail Company — Project Background
 
 Overview
+
 Smart Buy Retail Company, established in 2022, is a national retail enterprise headquartered in Nigeria, operating across five major states: Lagos, Port Harcourt, Kano, Abuja, and Ibadan. The company offers a diverse product portfolio spanning Beauty, Fashion, Groceries, Home & Living, and Electronics, served through both online and in-store channels.
 
 Problem Statement
+
 Despite generating significant volumes of operational and transactional data across its sales, marketing, discounting, and loyalty functions, Smart Buy had largely left this data underutilised. Without a structured analytical framework, the business lacked the visibility needed to make confident, data-driven commercial decisions from optimising regional strategies to evaluating the true return on marketing investment.
 
 Project Objective
+
 This project delivers a thorough analysis and synthesis of Smart Buy's internal data to surface critical, actionable insights that directly support the company's commercial growth. By transforming raw data into clear narratives and evidence-backed recommendations, this project equips Smart Buy's leadership with the intelligence needed to compete more effectively across all markets and channels.
 
 Key Areas of Analysis
