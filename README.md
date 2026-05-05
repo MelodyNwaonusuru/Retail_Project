@@ -31,7 +31,7 @@ Executive Summary — Business Performance Overview
 Smart Buy Retail Company
 
 1. Smart Buy generated #935.44M in total revenue, #183.03M in gross profit, and a 19.57% gross profit margin across 6,000 orders and 24,093 units sold.
-2. Online outperformed Store in gross profit (101.48M vs 81.55M), while Lagos led regional revenue at 197.53M, with all five regions performing within a relatively narrow range. 
+2. Online outperformed Store in gross profit (#101.48M vs #81.55M), while Lagos led regional revenue at #197.53M, with all five regions performing within a relatively narrow range. 
 3. Returning customers: dominated revenue contribution at 576.43M vs 359.01M from new customers, underlining the strength of Smart Buy's existing customer base.
 4. Revenue peaked in January and November, with dips in February and December suggesting seasonal patterns worth monitoring. 
 5. Notably, the 0% discount band generated the highest gross profit, with profitability falling as discount depth increased  making discount discipline a key margin lever for the business.
@@ -82,7 +82,7 @@ Strategic Priorities
 4. Investigate and act on the Ibadan anomaly — Ibadan is generating strong revenue and profit with poor marketing efficiency, which almost certainly means organic demand is doing the heavy lifting; a structured experiment to reduce paid marketing spend in Ibadan while monitoring volume impact would either unlock budget savings or reveal a ceiling that smarter targeting could push through
 5. Lead all commercial planning with Beauty and Fashion — these two categories should anchor promotional calendars, seasonal campaign briefs, inventory planning, and visual merchandising decisions; the data does not support continuing to over-invest in Electronics and Groceries from a marketing standpoint without first resolving the profitability gap
 6. Protect and grow Lagos and Kano as priority markets — while their high discount allocations deserve scrutiny, their commercial throughput makes them the backbone of the business; they should receive priority treatment in stock depth, delivery speed, customer experience quality, and localised campaign relevance
-7. Accelerate the online channel — a $20M gross profit gap over Store is not a marginal difference; the business should treat Online growth as a strategic priority, investing in checkout optimisation, delivery proposition improvement, digital acquisition, and UX enhancements that convert browsing into purchasing at a higher rate
+7. Accelerate the online channel — a #20M gross profit gap over Store is not a marginal difference; the business should treat Online growth as a strategic priority, investing in checkout optimisation, delivery proposition improvement, digital acquisition, and UX enhancements that convert browsing into purchasing at a higher rate
 8. Address the Electronics and Groceries margin problem directly — both categories are moving high volumes with low profit return; options to explore include pricing architecture reviews, category bundle strategies, cost renegotiations with suppliers, and a deliberate reduction in discount depth to test whether demand is genuinely price-elastic or whether margin can be recovered without significant volume loss
 
 90-Day Action Plan
