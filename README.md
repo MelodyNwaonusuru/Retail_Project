@@ -20,12 +20,14 @@ Key Areas of Analysis
 5. Discount Category Analysis: An investigation into which discount bands and promotional categories generate the most prof
 
 Data Structure & Initial Checks
+
 Smart Buy's Database is below the connection of six tables transaction, product, channel, customer type, region and date with 6000 orders 
 
 <img width="1150" height="702" alt="Image" src="https://github.com/user-attachments/assets/2d30a81a-2d15-403a-8e6b-2ab881bb3215" />
 
 
 Executive Summary — Business Performance Overview
+
 Smart Buy Retail Company
 
 1. Smart Buy generated #935.44M in total revenue, #183.03M in gross profit, and a 19.57% gross profit margin across 6,000 orders and 24,093 units sold.
@@ -67,9 +69,13 @@ Key Findings
 <img width="1111" height="685" alt="Image" src="https://github.com/user-attachments/assets/ef3cfc96-b6cb-497d-a030-52dd7f48013d" />
 
 Monthly Performance and Seasonality
+
 <img width="1112" height="685" alt="Image" src="https://github.com/user-attachments/assets/c97e2b03-c123-4ea4-9376-eb6b969c75c8" />
+
 Recommendations
+
 Strategic Priorities
+
 1. Prioritise customer retention above new acquisition — returning customers generate #217M more in revenue than new customers; investing in structured loyalty programmes, personalised offers, post-purchase re-engagement, and exclusive returning-customer incentives will protect and compound this commercial advantage
 2. Enforce discipline around the 0% discount band — the data is unambiguous: full-price transactions are the most profitable; the business should resist the impulse to apply blanket promotional discounts and instead focus on value-driven marketing, product storytelling, and experience improvements that justify full-price purchasing
 3. Fundamentally reassess marketing spend allocation — the current evidence shows a weak or inverse relationship between marketing spend and revenue performance at the category level; a channel-by-channel audit should be conducted, with budget cut from low-conversion activity and reallocated toward demonstrably high-return channels and formats
