@@ -97,8 +97,8 @@ These recommendations are drawn directly from the data and are designed to be ac
 
 Tools Used
 Tool	Purpose
-1. Power BI Desktop	Data modelling, DAX measure development, dashboard design and layout
-2. Power Query (M)	Data transformation, column structuring, data type enforcement
+1. Power BI Desktop —	Data modelling, DAX measure development, dashboard design and layout
+2. Power Query (M) — Data transformation, column structuring, data type enforcement
 3. DAX	KPI measures — Gross Profit Margin, Marketing ROI, MoM Revenue Growth %, Average Discount, Total Revenue Per Product, conditional formatting logic
-4. Star Schema Modelling	Structured the data model with one fact table and five dimension tables for clean cross-filtering
-5. Custom Date Table	Built manually in Power Query to enable accurate time intelligence and correct Month Name ordering
+4. Star Schema Modelling — Structured the data model with one fact table and five dimension tables for clean cross-filtering
+5. Custom Date Table —	Built manually in Power Query to enable accurate time intelligence and correct Month Name ordering
