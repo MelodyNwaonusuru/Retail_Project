@@ -1,10 +1,10 @@
-Smart Buy Retail Company — Project Background
+**Smart Buy Retail Company — Project Background**
 
-Overview
+**Overview**
 
 Smart Buy Retail Company, established in 2022, is a national retail enterprise headquartered in Nigeria, operating across five major states: Lagos, Port Harcourt, Kano, Abuja, and Ibadan. The company offers a diverse product portfolio spanning Beauty, Fashion, Groceries, Home & Living, and Electronics, served through both online and in-store channels.
 
-Problem Statement
+**Problem Statement**
 
 Despite generating significant volumes of operational and transactional data across its sales, marketing, discounting, and loyalty functions, Smart Buy had largely left this data underutilised. Without a structured analytical framework, the business lacked the visibility needed to make confident, data-driven commercial decisions from optimising regional strategies to evaluating the true return on marketing investment.
 
@@ -12,23 +12,23 @@ Project Objective
 
 This project delivers a thorough analysis and synthesis of Smart Buy's internal data to surface critical, actionable insights that directly support the company's commercial growth. By transforming raw data into clear narratives and evidence-backed recommendations, this project equips Smart Buy's leadership with the intelligence needed to compete more effectively across all markets and channels.
 
-Key Areas of Analysis
-1. Monthly Trend Analysis: Evaluation of sales patterns over time, with a regional lens, focusing on three core performance indicators Revenue, Order Volume, and Profit Margin  to identify seasonality, growth trajectories, and periods of underperformance.
-2. Product-Level Performance: An Analysis of Smart Buy's various product lines, understanding their impact on sales and returns
-3. Regional Comparison: A comparative evaluation of sales performance, order volumes, and Marketing Return on Investment (ROI) across all five operational states, identifying regional strengths, gaps, and opportunities for targeted resource allocation.
-4. Loyalty Program Effectiveness: An assessment of the loyalty program and its measurable impact on customer retention rates and sales performance.
-5. Discount Category Analysis: An investigation into which discount bands and promotional categories generate the most prof
+**Key Areas of Analysis**
+1. **Monthly Trend Analysis**: Evaluation of sales patterns over time, with a regional lens, focusing on three core performance indicators: Revenue, Order Volume, and Profit Margin  to identify seasonality, growth trajectories, and periods of underperformance.
+2. **Product-Level Performance**: An Analysis of Smart Buy's various product lines, understanding their impact on sales and returns
+3. **Regional Comparison**: A comparative evaluation of sales performance, order volumes, and Marketing Return on Investment (ROI) across all five operational states, identifying regional strengths, gaps, and opportunities for targeted resource allocation.
+4. **Loyalty Program Effectiveness**: An assessment of the loyalty program and its measurable impact on customer retention rates and sales performance.
+5. **Discount Category Analysis**: An investigation into which discount bands and promotional categories generate the most profit
 
-Data Structure & Initial Checks
+**Data Structure & Initial Checks**
 
-Smart Buy's Database is below the connection of six tables transaction, product, channel, customer type, region and date with 6000 orders 
+Smart Buy's Database is shown below, connecting six tables: transaction, product, channel, customer type, region and date, with 6000 orders 
 
 <img width="1150" height="702" alt="Image" src="https://github.com/user-attachments/assets/2d30a81a-2d15-403a-8e6b-2ab881bb3215" />
 
 
-Executive Summary — Business Performance Overview
+**Executive Summary — Business Performance Overview**
 
-Smart Buy Retail Company
+**Smart Buy Retail Company**
 
 1. Smart Buy generated #935.44M in total revenue, #183.03M in gross profit, and a 19.57% gross profit margin across 6,000 orders and 24,093 units sold.
 2. Online outperformed Store in gross profit (#101.48M vs #81.55M), while Lagos led regional revenue at #197.53M, with all five regions performing within a relatively narrow range. 
@@ -40,22 +40,22 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 
 <img width="1117" height="690" alt="Image" src="https://github.com/user-attachments/assets/259cffa5-dfb1-44d2-ac22-b8551a50b780" />
 
-Insight Deep Dive — Product Performance
+**Insight Deep Dive — Product Performance**
 
-Key Findings
+**Key Findings**
 
 1. Beauty leads across all commercial metrics, recording the highest revenue and gross profit among all five product categories, with performance trending consistently upward. This makes Beauty Smart Buy's most valuable and reliable product line.
 2. Electronics and Groceries present a profitability paradox — despite generating some of the highest revenue figures, both categories return disproportionately low gross profit, signalling significant margin pressure that requires urgent attention.
 3. Home & Living and Electronics carry the heaviest discount burden, receiving the highest discount allocations across the portfolio. This is directly counterproductive, as deeper discounting is eroding the very profit these categories could otherwise generate.
-4. Beauty and Fashion operate on the lowest marketing spend, yet both categories deliver strong commercial returns revealing a striking inverse relationship where higher marketing expenditure does not translate into higher revenue, and may in fact be inefficiently allocated across the remaining categories.
+4. Beauty and Fashion operate on the lowest marketing spend, yet both categories deliver strong commercial returns, revealing a striking inverse relationship where higher marketing expenditure does not translate into higher revenue, and may in fact be inefficiently allocated across the remaining categories.
 5. Electronics and Groceries dominate in units sold, recording the highest quantities across the product portfolio. Fashion and Beauty, by contrast, move the fewest units yet generate superior profit, underscoring that volume alone is not a reliable indicator of commercial value.
 
 <img width="1110" height="686" alt="Image" src="https://github.com/user-attachments/assets/f823d7a7-ce28-400e-9389-2ae022af7c09" />
 
 
-Insight Deep Dive — Regional Performance
+**Insight Deep Dive — Regional Performance**
 
-Key Findings
+**Key Findings**
 
 1. Lagos and Kano lead the business commercially, consistently generating the highest revenue and gross profit across all five regions establishing themselves as Smart Buy's two most critical and productive markets.
 2. Lagos and Kano also carry the highest discount allocations across all regions, raising an important question about whether the volume and revenue they generate is being achieved at the unnecessary cost of margin, and whether these results could be sustained with tighter discount discipline.
@@ -68,22 +68,22 @@ Key Findings
 <img width="1111" height="685" alt="Image" src="https://github.com/user-attachments/assets/ef3cfc96-b6cb-497d-a030-52dd7f48013d" />
 
 
-Insight Deep Dive — Monthly Performance and Seasonality
+**Insight Deep Dive — Monthly Performance and Seasonality**
 
 
-Key Findings
+**Key Findings**
 
 1. Revenue is quite volatile month-to-month — there are frequent swings (both positive and negative), especially in 2025, where growth jumps as high as ~28% and drops below -15%. This suggests inconsistent demand or external factors affecting sales.
-2. Q3 tends to perform stronger overall — months like July–September (especially 2025) show solid revenue and growth spikes, indicating some seasonality or peak buying period.
+2. Q3 tends to perform stronger overall — months like July–September (especially 2025) show solid revenue and growth spikes, indicating some seasonality or a peak buying period.
 3. Gross profit margin is stable but not improving — it mostly sits around 18%–20%, which is good for consistency, but there’s no clear upward trend despite revenue fluctuations.
 4. Discounts fluctuate without clear impact on growth — higher discounts (₦11k–₦13k range) don’t always correspond to higher growth, which may mean discounts aren’t being used efficiently.
 
 <img width="1112" height="685" alt="Image" src="https://github.com/user-attachments/assets/c97e2b03-c123-4ea4-9376-eb6b969c75c8" />
 
 
-Recommendations
+**Recommendations**
 
-Strategic Priorities
+**Strategic Priorities**
 
 1. Prioritise customer retention above new acquisition — returning customers generate #217M more in revenue than new customers; investing in structured loyalty programmes, personalised offers, post-purchase re-engagement, and exclusive returning-customer incentives will protect and compound this commercial advantage
 2. Enforce discipline around the 0% discount band — the data is unambiguous: full-price transactions are the most profitable; the business should resist the impulse to apply blanket promotional discounts and instead focus on value-driven marketing, product storytelling, and experience improvements that justify full-price purchasing
