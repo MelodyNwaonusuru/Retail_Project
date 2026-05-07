@@ -23,7 +23,7 @@ This project delivers a thorough analysis and synthesis of Smart Buy's internal 
 
 Smart Buy's Database is shown below, connecting six tables: transaction, product, channel, customer type, region and date, with 6000 orders 
 
-https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-03%20182527.png?raw=true
+![image alt](https://raw.githubusercontent.com/MelodyNwaonusuru/Retail_Project/main/Screenshot%202026-05-03%20182527.png)
 
 
 **Executive Summary — Business Performance Overview**
