@@ -38,7 +38,7 @@ Smart Buy's Database is shown below, connecting six tables: transaction, product
 
 Below is the overview page from the Power BI dashboard, and more examples are included throughout the report.
 
-<img width="1117" height="690" alt="Image" src="https://github.com/user-attachments/assets/259cffa5-dfb1-44d2-ac22-b8551a50b780" />
+![image alt](https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-04%20094448.png?raw=true)
 
 **Insight Deep Dive — Product Performance**
 
