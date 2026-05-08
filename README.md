@@ -1,6 +1,6 @@
 **Smart Buy Retail Company — Project Background**
 
-**Overview**
+**Overview**:
 
 Smart Buy Retail Company, established in 2022, is a national retail enterprise headquartered in Nigeria, operating across five major states: Lagos, Port Harcourt, Kano, Abuja, and Ibadan. The company offers a diverse product portfolio spanning Beauty, Fashion, Groceries, Home & Living, and Electronics, served through both online and in-store channels.
 
