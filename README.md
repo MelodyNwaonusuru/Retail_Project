@@ -69,7 +69,7 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 6. Lagos and Kano are Smart Buy's commercial engines, but their dependence on heavy discounting warrants scrutiny.
 7. Ibadan's ability to generate strong returns with poor marketing ROI signals a market that is underserved by its current strategy and potentially one of the most rewarding opportunities for targeted investment across the entire regional portfolio.
 
-<img width="1111" height="685" alt="Image" src="https://github.com/user-attachments/assets/ef3cfc96-b6cb-497d-a030-52dd7f48013d" />
+![image alt](https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-07%20203443.png?raw=true)
 
 
 **Insight Deep Dive — Monthly Performance and Seasonality**
