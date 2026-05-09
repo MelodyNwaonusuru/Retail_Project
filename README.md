@@ -27,9 +27,7 @@ Smart Buy's Database is shown below, connecting six tables: transaction, product
 
 Download the Power BI report file to explore the interactive dashboard:
 
-[⬇️ Download Retail_dataset.pbix](https://github.com/MelodyNwaonusuru/Retail_Project/raw/main/Retail_dataset.pbix)
-
-> ⚠️ Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open.
+[⬇️ Download Retail_dataset.pbix](https://github.com/MelodyNwaonusuru/Retail_Project/raw/main/Retail_dataset.pbix)> ⚠️ Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open.
 
 
 **Executive Summary — Business Performance Overview**
