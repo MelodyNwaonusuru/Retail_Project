@@ -42,7 +42,7 @@ Download the Power BI report file to explore the interactive dashboard:
 
 Below is the overview page from the Power BI dashboard, and more examples are included throughout the report.
 
-![image alt](https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-04%20094448.png?raw=true)
+![image alt](https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-07%20171357.png?raw=true)
 
 **Insight Deep Dive — Product Performance**
 
