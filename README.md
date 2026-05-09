@@ -54,7 +54,7 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 4. Beauty and Fashion operate on the lowest marketing spend, yet both categories deliver strong commercial returns, revealing a striking inverse relationship where higher marketing expenditure does not translate into higher revenue, and may in fact be inefficiently allocated across the remaining categories.
 5. Electronics and Groceries dominate in units sold, recording the highest quantities across the product portfolio. Fashion and Beauty, by contrast, move the fewest units yet generate superior profit, underscoring that volume alone is not a reliable indicator of commercial value.
 
-<img width="1110" height="686" alt="Image" src="https://github.com/user-attachments/assets/f823d7a7-ce28-400e-9389-2ae022af7c09" />
+![image alt](https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-07%20171218.png?raw=true)
 
 
 **Insight Deep Dive — Regional Performance**
