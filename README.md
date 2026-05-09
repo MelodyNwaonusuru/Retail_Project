@@ -77,10 +77,10 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 
 **Key Findings**
 
-1. Revenue is quite volatile month-to-month — there are frequent swings (both positive and negative), especially in 2025, where growth jumps as high as ~28% and drops below -15%. This suggests inconsistent demand or external factors affecting sales.
-2. Q3 tends to perform stronger overall — months like July–September (especially 2025) show solid revenue and growth spikes, indicating some seasonality or a peak buying period.
-3. Gross profit margin is stable but not improving — it mostly sits around 18%–20%, which is good for consistency, but there’s no clear upward trend despite revenue fluctuations.
-4. Discounts fluctuate without clear impact on growth — higher discounts (₦11k–₦13k range) don’t always correspond to higher growth, which may mean discounts aren’t being used efficiently.
+1. Revenue is quite volatile month-to-month : there are frequent swings (both positive and negative), especially in 2025, where growth jumps as high as ~28% and drops below -15%. This suggests inconsistent demand or external factors affecting sales.
+2. Q3 tends to perform stronger overall : months like July–September (especially 2025) show solid revenue and growth spikes, indicating some seasonality or a peak buying period.
+3. Gross profit margin is stable but not improving :it mostly sits around 18%–20%, which is good for consistency, but there’s no clear upward trend despite revenue fluctuations.
+4. Discounts fluctuate without clear impact on growth : higher discounts (₦11k–₦13k range) don’t always correspond to higher growth, which may mean discounts aren’t being used efficiently.
 
 ![image alt](https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-07%20171110.png?raw=true)
 
@@ -89,17 +89,27 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 
 **Strategic Priorities**
 
-1. Prioritise customer retention above new acquisition — returning customers generate #217M more in revenue than new customers; investing in structured loyalty programmes, personalised offers, post-purchase re-engagement, and exclusive returning-customer incentives will protect and compound this commercial advantage
-2. Enforce discipline around the 0% discount band — the data is unambiguous: full-price transactions are the most profitable; the business should resist the impulse to apply blanket promotional discounts and instead focus on value-driven marketing, product storytelling, and experience improvements that justify full-price purchasing
-3. Fundamentally reassess marketing spend allocation — the current evidence shows a weak or inverse relationship between marketing spend and revenue performance at the category level; a channel-by-channel audit should be conducted, with budget cut from low-conversion activity and reallocated toward demonstrably high-return channels and formats
-4. Investigate and act on the Ibadan anomaly — Ibadan is generating strong revenue and profit with poor marketing efficiency, which almost certainly means organic demand is doing the heavy lifting; a structured experiment to reduce paid marketing spend in Ibadan while monitoring volume impact would either unlock budget savings or reveal a ceiling that smarter targeting could push through
-5. Lead all commercial planning with Beauty and Fashion — these two categories should anchor promotional calendars, seasonal campaign briefs, inventory planning, and visual merchandising decisions; the data does not support continuing to over-invest in Electronics and Groceries from a marketing standpoint without first resolving the profitability gap
-6. Protect and grow Lagos and Kano as priority markets — while their high discount allocations deserve scrutiny, their commercial throughput makes them the backbone of the business; they should receive priority treatment in stock depth, delivery speed, customer experience quality, and localised campaign relevance
-7. Accelerate the online channel — a #20M gross profit gap over Store is not a marginal difference; the business should treat Online growth as a strategic priority, investing in checkout optimisation, delivery proposition improvement, digital acquisition, and UX enhancements that convert browsing into purchasing at a higher rate
-8. Address the Electronics and Groceries margin problem directly — both categories are moving high volumes with low profit return; options to explore include pricing architecture reviews, category bundle strategies, cost renegotiations with suppliers, and a deliberate reduction in discount depth to test whether demand is genuinely price-elastic or whether margin can be recovered without significant volume loss.
+1. Prioritise customer retention above new acquisition : returning customers generate #217M more in revenue than new customers; investing in structured loyalty programmes, personalised offers, post-purchase re-engagement, and exclusive returning-customer incentives will protect and compound this commercial advantage
+2. Enforce discipline around the 0% discount band : full-price transactions are the most profitable; the business should resist the impulse to apply blanket promotional discounts and instead focus on value-driven marketing, product storytelling, and experience improvements that justify full-price purchasing
+3. Fundamentally reassess marketing spend allocation : the current evidence shows a weak or inverse relationship between marketing spend and revenue performance at the category level; a channel-by-channel audit should be conducted, with budget cut from low-conversion activity and reallocated toward demonstrably high-return channels and formats
+4. Investigate and act on the Ibadan anomaly : Ibadan is generating strong revenue and profit with poor marketing efficiency, which almost certainly means organic demand is doing the heavy lifting; a structured experiment to reduce paid marketing spend in Ibadan while monitoring volume impact would either unlock budget savings or reveal a ceiling that smarter targeting could push through
+5. Lead all commercial planning with Beauty and Fashion : these two categories should anchor promotional calendars, seasonal campaign briefs, inventory planning, and visual merchandising decisions; the data does not support continuing to over-invest in Electronics and Groceries from a marketing standpoint without first resolving the profitability gap
+6. Protect and grow Lagos and Kano as priority markets : while their high discount allocations deserve scrutiny, their commercial throughput makes them the backbone of the business; they should receive priority treatment in stock depth, delivery speed, customer experience quality, and localised campaign relevance
+7. Accelerate the online channel : a #20M gross profit gap over Store is not a marginal difference; the business should treat Online growth as a strategic priority, investing in checkout optimisation, delivery proposition improvement, digital acquisition, and UX enhancements that convert browsing into purchasing at a higher rate
+8. Address the Electronics and Groceries margin problem directly both categories are moving high volumes with low profit return; options to explore include pricing architecture reviews, category bundle strategies, cost renegotiations with suppliers, and a deliberate reduction in discount depth to test whether demand is genuinely price-elastic or whether margin can be recovered without significant volume loss.
 
 These recommendations are drawn directly from the data and are designed to be actionable within a short execution window. The 90-day focus is on quick wins that protect margin, improve channel efficiency, and double down on what the data has already confirmed is working.
 
+**90 day Focus Plan**
+
+1. Redirect marketing budget away from low-return channels the audit will show where; act on it immediately
+2. Stop blanket discounting; institute an approval process and hold the line on full-price transactions
+3. Make Beauty and Fashion the lead categories in all commercial planning going forward
+4. Reduce paid marketing spend in Ibadan on a trial basis and monitor the volume impact
+5. Formally prioritise Lagos and Kano for stock, delivery, and customer experience investment
+6. Commit to building a loyalty programme; approve the budget and set a launch deadline
+7. Treat online as a strategic growth channel; assign dedicated resource and a closing target for the gross profit gap
+8. Open supplier renegotiations or pricing reviews for Electronics and Groceries; the current margin position is not sustainable at scale
 
 Tools Used
 Tool	Purpose
