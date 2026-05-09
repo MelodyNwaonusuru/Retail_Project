@@ -8,7 +8,7 @@ Smart Buy Retail Company, established in 2022, is a national retail enterprise h
 
 Despite generating significant volumes of operational and transactional data across its sales, marketing, discounting, and loyalty functions, Smart Buy had largely left this data underutilised. Without a structured analytical framework, the business lacked the visibility needed to make confident, data-driven commercial decisions from optimising regional strategies to evaluating the true return on marketing investment.
 
-Project Objective
+**Project Objective**
 
 This project delivers a thorough analysis and synthesis of Smart Buy's internal data to surface critical, actionable insights that directly support the company's commercial growth. By transforming raw data into clear narratives and evidence-backed recommendations, this project equips Smart Buy's leadership with the intelligence needed to compete more effectively across all markets and channels.
 
@@ -24,6 +24,12 @@ This project delivers a thorough analysis and synthesis of Smart Buy's internal 
 Smart Buy's Database is shown below, connecting six tables: transaction, product, channel, customer type, region and date, with 6000 orders 
 
 ![image alt](https://raw.githubusercontent.com/MelodyNwaonusuru/Retail_Project/main/Screenshot%202026-05-03%20182527.png)
+
+Download the Power BI report file to explore the interactive dashboard:
+
+[⬇️ Download Retail_dataset.pbix](https://github.com/MelodyNwaonusuru/Retail_Project/raw/main/Retail_dataset.pbix)
+
+> ⚠️ Requires [Power BI Desktop](https://powerbi.microsoft.com/desktop/) to open.
 
 
 **Executive Summary — Business Performance Overview**
