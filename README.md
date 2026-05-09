@@ -82,7 +82,7 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 3. Gross profit margin is stable but not improving — it mostly sits around 18%–20%, which is good for consistency, but there’s no clear upward trend despite revenue fluctuations.
 4. Discounts fluctuate without clear impact on growth — higher discounts (₦11k–₦13k range) don’t always correspond to higher growth, which may mean discounts aren’t being used efficiently.
 
-<img width="1112" height="685" alt="Image" src="https://github.com/user-attachments/assets/c97e2b03-c123-4ea4-9376-eb6b969c75c8" />
+![image alt]https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-07%20171110.png?raw=true)
 
 
 **Recommendations**
