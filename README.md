@@ -5,16 +5,27 @@
 **📚 Table of Contents**
 
 Project Background
+
 Problem Statement
+
 Project Objective
+
 Key Areas of Analysis
+
 Data Structure & Initial Checks
+
 Executive Summary
+
 Insight Deep Dive — Product Performance
+
 Insight Deep Dive — Regional Performance
+
 Insight Deep Dive — Monthly Performance & Seasonality
+
 Recommendations
+
 90-Day Focus Plan
+
 Tools Used
 
 **Smart Buy Retail Company — Project Background**
@@ -130,8 +141,10 @@ These recommendations are drawn directly from the data and are designed to be ac
 7. Treat online as a strategic growth channel; assign dedicated resource and a closing target for the gross profit gap
 8. Open supplier renegotiations or pricing reviews for Electronics and Groceries; the current margin position is not sustainable at scale
 
-Tools Used
+**Tools Used**
+
 Tool	Purpose
+
 1. Power BI Desktop :	Data modelling, DAX measure development, dashboard design and layout
 2. Power Query (M) : Data transformation, column structuring, data type enforcement
 3. DAX	KPI measures : Gross Profit Margin, Marketing ROI, MoM Revenue Growth %, Average Discount, Total Revenue Per Product, conditional formatting logic
