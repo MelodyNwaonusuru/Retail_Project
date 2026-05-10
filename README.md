@@ -1,3 +1,22 @@
+🛍️ **Smart Buy Retail Company — Sales & Performance Analysis**
+
+**Power BI Project | 6,000 Orders | Raw Data ➝ Insights ➝ Strategy**
+
+**📚 Table of Contents**
+
+Project Background
+Problem Statement
+Project Objective
+Key Areas of Analysis
+Data Structure & Initial Checks
+Executive Summary
+Insight Deep Dive — Product Performance
+Insight Deep Dive — Regional Performance
+Insight Deep Dive — Monthly Performance & Seasonality
+Recommendations
+90-Day Focus Plan
+Tools Used
+
 **Smart Buy Retail Company — Project Background**
 
 **Overview**:
