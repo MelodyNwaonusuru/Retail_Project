@@ -13,7 +13,7 @@
 - [Executive Summary](#executive-summary)
 - [Insight Deep Dive — Product Performance](#insight-deep-dive--product-performance)
 - [Insight Deep Dive — Regional Performance](#insight-deep-dive--regional-performance)
-- [Insight Deep Dive — Monthly Performance & Seasonality](#insight-deep-dive--monthly-performance-and-seasonality)
+- [Insight Deep Dive — Sales Performance & Seasonality](#insight-deep-dive--Sales-performance-and-seasonality)
 - [Recommendations](#recommendations)
 - [90-Day Focus Plan](#90-day-focus-plan)
 - [Tools Used](#tools-used)
@@ -92,7 +92,7 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 ![image alt](https://github.com/MelodyNwaonusuru/Retail_Project/blob/main/Screenshot%202026-05-07%20203443.png?raw=true)
 
 
-**Insight Deep Dive — Monthly Performance and Seasonality**
+**Insight Deep Dive — Sales Performance and Seasonality**
 
 
 **Key Findings**
