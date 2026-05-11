@@ -2,31 +2,21 @@
 
 **Power BI Project | 6,000 Orders | Raw Data ➝ Insights ➝ Strategy**
 
-**📚 Table of Contents**
 
-##Project Background
+## 📚 Table of Contents
 
-Problem Statement
-
-Project Objective
-
-Key Areas of Analysis
-
-Data Structure & Initial Checks
-
-Executive Summary
-
-Insight Deep Dive — Product Performance
-
-Insight Deep Dive — Regional Performance
-
-Insight Deep Dive — Monthly Performance & Seasonality
-
-Recommendations
-
-90-Day Focus Plan
-
-Tools Used
+- [Project Background](#project-background)
+- [Problem Statement](#problem-statement)
+- [Project Objective](#project-objective)
+- [Key Areas of Analysis](#key-areas-of-analysis)
+- [Data Structure & Initial Checks](#data-structure--initial-checks)
+- [Executive Summary](#executive-summary)
+- [Insight Deep Dive — Product Performance](#insight-deep-dive--product-performance)
+- [Insight Deep Dive — Regional Performance](#insight-deep-dive--regional-performance)
+- [Insight Deep Dive — Monthly Performance & Seasonality](#insight-deep-dive--monthly-performance-and-seasonality)
+- [Recommendations](#recommendations)
+- [90-Day Focus Plan](#90-day-focus-plan)
+- [Tools Used](#tools-used)
 
 **Smart Buy Retail Company — Project Background**
 
